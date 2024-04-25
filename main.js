@@ -8,5 +8,5 @@ while(nomeUsuário == ""){
 if(nomeUsuário == null){
     elemento.textContent = "Seja muito bem-vindo";
 }else{
-    elemento.textContent = nomeUsuário;
+    elemento.textContent = nomeUsuásio;
 }
